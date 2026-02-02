@@ -1,31 +1,37 @@
-<<<<<<< HEAD
-# Zoombini-Babies-portfolio
-=======
-# Boilerplate: React with Express and Vite
+# Zoombini Babies (Portfolio Version)
 
-This is a starter project that uses Vite to bundle a React app and Express to serve it in production. Express is used in development to serve an API server.
+## Overview  
+This project was completed during Dev Academy Aotearoa as part of a team-based full-stack web development project. It demonstrates my experience working collaboratively, using modern web technologies, and following Agile practices.
 
-Vite React App: [http://localhost:5173](http://localhost:5173)
-Express API Server: [http://localhost:3000](http://localhost:3000)
+## Why I Built This  
+I worked on this project to:  
+- Practise working in an Agile team with stand-ups and sprints  
+- Improve my understanding of full-stack JavaScript development  
+- Gain experience using Git and GitHub in a group project  
+- Build a complete, working application collaboratively  
 
-Requests to `http://localhost:5173/api` are proxied to `http://localhost:3000/api`.
+## Tech Stack  
+- JavaScript   
+-  
+-  
+- HTML / CSS  
+- Git 
 
-## Setup
+## What I Did (My Contribution)  
+- Worked with my team to plan features and divide tasks  
+- Contributed to frontend components in React   
+- Used Git branches, pull requests, and merge workflows  
 
-### Installation
+## What I Learned  
+- How to collaborate effectively using Git and GitHub  
+- How to communicate technical ideas clearly in a team  
+- How to debug issues with others under time pressure  
+- How to work within an Agile workflow  
 
-#### **From the Github UI**
+## What I Would Improve  
+- Improve the user interface and design  
+- Add more features and polish  
+- Refactor parts of the code for readability and structure  
 
-See the instructions [here](https://docs.github.com/en/free-pro-team@latest/github/creating-cloning-and-archiving-repositories/creating-a-repository-from-a-template) to use Github's feature to create a new repo from a template.
-
-```
-git clone [your-project-ssh-address]
-cd [your-project-name]
-npm install # to install dependencies
-npm run dev # to start the dev server
-```
-
-You can find the client running on [http://localhost:5173](http://localhost:5173).
-
-[Provide feedback on this repo](https://docs.google.com/forms/d/e/1FAIpQLSfw4FGdWkLwMLlUaNQ8FtP2CTJdGDUv6Xoxrh19zIrJSkvT4Q/viewform?usp=pp_url&entry.1958421517=boilerplate-react-api)
->>>>>>> a5234f1 (Initial commit)
+## Links  
+- Source code: https://github.com/matthewpark98/Zoombini-Babies-portfolio  
